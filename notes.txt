@@ -1,0 +1,16 @@
+-> react - js library
+-> single page application
+-> component based architecture (component === function)
+-> component = js code + html => jsx 
+-> html inside js is jsx || html is returned from js function
+-> component -> name always starts with capital letter (naming convention)
+-> component are of 2 types -> class based (was used earlier) and functional (now-a-days)
+
+-> to set up our basic functional react app we use a building tool -> VITE
+-> earlier CRA (create react app) was used
+
+‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️
+-> dependencies vs dev-dependencies
+-> package vs package-lock.json
+-> strict mode
+-> {named import} vs Default import 
