@@ -14,3 +14,15 @@
 -> package vs package-lock.json
 -> strict mode
 -> {named import} vs Default import 
+
+------------------------------------------------------------------------------------------
+<> </> -> react fragment
+
+component to make any change (ON THE UI) requires rerender and this rendering of a component happens in 2 case:
+    ->state change
+    ->prop change
+
+a normal variable cannot rerender a component hence it will not show any change on the UI
+
+
+count++ will change the value of count ⚠️
