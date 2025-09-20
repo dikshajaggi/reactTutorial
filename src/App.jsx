@@ -1,4 +1,5 @@
 import './App.css'
+import APICalling from './components/APICalling'
 import ButtonComponent from './components/ButtonComponent'
 import ColoredButtons from './components/ColoredButtons'
 import ModeToggle from './components/ModeToggle'
@@ -9,8 +10,9 @@ function App() {
    <>
     {/* <ButtonComponent /> */}
     {/* <ColoredButtons /> */}
-    <ShowHidePass />
-    <ModeToggle />
+    {/* <ShowHidePass />
+    <ModeToggle /> */}
+    <APICalling />
    </>
   )
 }
